@@ -8,10 +8,7 @@ A "Truth Layer" for marketing PDFs. Upload a PDF, and the agent:
 
 Built for the CogCulture Product Management Trainee assessment (Part 2).
 
-## Live demo
 
-- **App:** `<add your deployed Streamlit Cloud URL here>`
-- **Demo video:** `<add your 30-second screen recording link here>`
 
 ## How it works
 
